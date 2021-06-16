@@ -89,7 +89,7 @@ body.dark-theme {
 }
 
 .change-theme {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     color: var(--title-color);
     margin-right: var(--mb-1);
     cursor: pointer;
@@ -729,6 +729,10 @@ img {
     color: var(--text-color-light);
 } 
 
+.contact__subtitle:hover {
+    color: var(--first-color);
+}
+
 .contact__content {
     background-color: var(--input-color);
     border-radius: .5rem;
@@ -824,7 +828,7 @@ img {
 }
 
 .scrollup__icon {
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #fff;
 }
 
