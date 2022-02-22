@@ -311,6 +311,7 @@ img {
 
 .home__blob-img {
     width: 160px;
+    filter: brightness(1.2);
 }
 
 .home__data {
